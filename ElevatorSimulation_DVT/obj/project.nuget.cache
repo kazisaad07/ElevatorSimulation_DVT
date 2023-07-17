@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7nG8V6WunKumpg/WzvJ+Jljj/tJPx1/MwsorRd+HAITOFlQcNDekUAdxg2qER3QacqlZhvgWV7x4qqSXS1FUYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\izaks\\Desktop\\DVT Assessment\\ElevatorSimulation_DVT\\ElevatorSimulation_DVT\\ElevatorSimulation_DVT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\izaks\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\izaks\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\izaks\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}
